@@ -4,4 +4,4 @@
 
 ##### The algorithm updates fibNMinus2 and fibNMinus1 in each iteration to keep track of the last two Fibonacci numbers. Finally, it returns the n-th Fibonacci number, which is stored in the variable fib.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Fibonacci/).
